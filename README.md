@@ -1,4 +1,6 @@
-# Parallel Factorial ⚙️
+Archived on GitHub and moved to https://git.sr.ht/~gary_moore/parallel-factorial
+
+    # Parallel Factorial ⚙️
 
 Calculates factorial numbers using rayon for parallel processing.
 
